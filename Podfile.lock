@@ -1,0 +1,22 @@
+PODS:
+  - PodTest (0.0.1)
+
+DEPENDENCIES:
+  - PodTest (from `https://github.com/hyunseok82/PodTest.git`, branch `master`)
+
+EXTERNAL SOURCES:
+  PodTest:
+    :branch: master
+    :git: https://github.com/hyunseok82/PodTest.git
+
+CHECKOUT OPTIONS:
+  PodTest:
+    :commit: bbf93132e5a2c70b22485c839b0d6e3856588103
+    :git: https://github.com/hyunseok82/PodTest.git
+
+SPEC CHECKSUMS:
+  PodTest: c2a78bdbdb591f66fcbcae1a9c9248fe0850481b
+
+PODFILE CHECKSUM: 0fbce087f73acd54c63158cc91a71d5ab0e3e599
+
+COCOAPODS: 1.0.1
